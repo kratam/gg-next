@@ -22,7 +22,7 @@ export default function Home() {
         initial={{ scale: 0.8, opacity: 0 }}
         animate={{ scale: 1, opacity: 1 }}
       >
-        Szia, mi vagyunk a GuestGuru.
+        Szia, mi vagyunk a <b>GuestGuru</b>.
         <br />
         Rövidtávú lakáskiadással foglalkozunk.{' '}
         <a href="mailto:hello@guest.guru">Írj nekünk!</a>
